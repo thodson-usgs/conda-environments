@@ -1,0 +1,21 @@
+name: pymc3
+channels:
+- conda-forge
+dependencies:
+- python=3.10
+- pymc3
+- theano-pymc
+- mkl
+- mkl-service
+- ipykernel
+- ipyleaflet
+- ipywidgets
+- jupyter-panel-proxy
+- jupyterlab_code_formatter
+- jupytext
+- scipy
+- numpy
+- pandas
+- patsy
+- pip
+- arviz
